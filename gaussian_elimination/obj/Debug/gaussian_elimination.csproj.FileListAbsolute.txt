@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\gaussian_elimination\gaussian_elimination\bin\Debug\gaussian_elimination.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\gaussian_elimination\gaussian_elimination\bin\Debug\gaussian_elimination.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\gaussian_elimination\gaussian_elimination\bin\Debug\gaussian_elimination.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\gaussian_elimination\gaussian_elimination\obj\Debug\gaussian_elimination.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\gaussian_elimination\gaussian_elimination\obj\Debug\gaussian_elimination.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\gaussian_elimination\gaussian_elimination\obj\Debug\gaussian_elimination.pdb
